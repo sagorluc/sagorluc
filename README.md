@@ -10,7 +10,7 @@
   <a href="https://twitter.com/Sagor_luc">
     <img alt="Twitter" src="https://raw.githubusercontent.com/mojnomiya/mojnomiya/main/media/twitter.svg"  width="22px" hight="22px"/>
   </a>&emsp;
-  <a href="mailto:droptosagor@gmail.com">
+  <a href="mailto:mdsagarali000@gmail.com">
     <img alt="Email" src="https://raw.githubusercontent.com/mojnomiya/mojnomiya/main/media/email.svg" width="22px" hight="22px"/>
   </a>
 </div>
@@ -19,11 +19,11 @@
     I'm a Python and Django Lover!
 
 
-- 🔭 I’m currently working at ......!
+- 🔭 I’m currently working @AppCube
 - :hearts: I enjoy programming and sharing knowledge <br/>
 - 🤔 I’m looking for people who can help me with Outstanding Video ideas and executions<br/>
-- :e-mail: How to reach me: droptosagor@gmail.com<br/>
-- 🌱 I’m working with Django
+- :e-mail: How to reach me: mdsagarali000@gmail.com<br/>
+- 🌱 I’m working with Python, Django, DRF, Channels, Celery, Redis
 
 
 
