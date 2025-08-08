@@ -102,7 +102,7 @@
 <p align="center">
   <br>
   <!-- Github Stats -->
-  <img style="text-align: center;" alt="My GitHub Stats"  width="89%" src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&border_color=DD2BC7&show=prs_merged,prs_merged_percentage&hide=stars&theme=neon" /> <br>
+  <img style="text-align: center;" alt="My GitHub Stats"  width="89%" src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&border_color=DD2BC7&show=total_commits,prs_merged,prs_merged_percentage&hide=stars&theme=neon" /> <br>
 
 <!-- ##################################### END STATS ########################################## -->
 
