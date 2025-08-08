@@ -103,21 +103,14 @@
 <summary><h2>Stats</h2></summary>
 <p align="center">
   <br>
-  
   <!-- Github Stats -->
-  <img alt="My GitHub Stats"  width="89%" src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&theme=tokyonight&border_color=DD2BC7" />
+  <img style="text-align: center;" alt="My GitHub Stats"  width="89%" src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&border_color=DD2BC7&show=prs_merged,prs_merged_percentage&hide=stars&theme=neon" /> <br>
 
 <!-- ##################################### END STATS ########################################## -->
 
   <!-- Github Streak 
-  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=sagorluc&theme=tokyonight&mode=daily&border=DD2BC7" 
-         width="65%" height="125px" alt="My GitHub Streak was once here..." />
-  </a>
-    <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=sagorluc&theme=buefy&mode=daily&border=DD2BC7" 
-         width="65%" height="125px" alt="My GitHub Streak was once here..." />
-  </a> -->
+  <img src="https://streak-stats.demolab.com?user=sagorluc&theme=tokyonight&mode=daily&border=DD2BC7" 
+         width="65%" height="125px" alt="My GitHub Streak was once here..." /> -->
 
 <!-- ##################################### END STREK ########################################## -->
 
@@ -125,12 +118,7 @@
   
   <p align="center">
     <br>
-    <a href="https://github.com/sagorluc/github-readme-stats#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorluc&layout=compact&theme=tokyonight&border_color=DD2BC7"
-           width="48%" alt="Favorite Languages" />
-    <a href="https://github.com/sagorluc/github-readme-stats#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorluc&layout=compact&theme=white&border_color=DD2BC7"
-           width="48%" alt="Favorite Languages" />
+      <img alt="Favorite Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorluc&layout=pie&theme=blue-green&border_color=DD2BC7&langs_count=8&hide=tcl,scss,plsql,cython,hack,roff&show=java" />
     <br>
   </p>
 
