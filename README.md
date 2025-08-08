@@ -26,16 +26,11 @@
 - 🌱 I’m working with Python, Django, DRF, Channels, Celery, Redis
 
 
-
-
-
-
-
-
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p align="center">
-<!--     <a href="#">
+    
+<!--  <a href="#">
       <img align="center" height="30" width="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="#">
@@ -74,7 +69,7 @@
     <a href="#">
       <img align="center" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     </a>
-<!--     <a href="#">
+<!-- <a href="#">
       <img align="center" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     </a> -->
     <a href="#">
@@ -96,6 +91,7 @@
 <summary><h2>Stats</h2></summary>
 <p align="center">
   <br>
+  
   <!-- Github Stats -->
   <a href="https://github.com/sagorluc/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
@@ -105,6 +101,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&theme=buefy&border_color=DD2BC7" 
          width="89%" alt="My GitHub Stats were once here..." />
   </a>
+  
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=sagorluc&theme=tokyonight&mode=daily&border=DD2BC7" 
@@ -116,8 +113,7 @@
   </a>
    
 
-
-  <!-- Most Used Langs -->
+  <!-- Most Used Programming Languages -->
   
   <p align="center">
     <br>
@@ -131,16 +127,7 @@
   </p>
   
   <!-- Commit Snake! -->
-  
-  <!-- <a href="https://raw.githubusercontent.com/sagorluc/sagorluc/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/sagorluc/sagorluc/media/github-contribution-grid-snake-dark.svg" 
-       alt"Check out my commit history!" />
-  </a>
-  
-  <a href="https://raw.githubusercontent.com/mojnomiya/mojnomiya/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/mojnomiya/mojnomiya/media/github-contribution-grid-snake.svg" 
-         alt"Check out my commit history!" />
-  </a> -->
+  ![snake gif](https://github.com/sagorluc/sagorluc/blob/output/github-snake-dark.svg)
 
 </p>
 </details>
@@ -153,8 +140,3 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=footer"/>
 
 
-<!-- -
-mojnomiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--
-- -->
