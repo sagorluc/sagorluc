@@ -29,24 +29,40 @@
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p align="center">
-    
-<!--  <a href="#">
-      <img align="center" height="30" width="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" height="30" width="30" title="JavaScript" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-    </a>
-    <a href="#">
-      <img align="center" height="30" width="30" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" height="30" width="30" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    </a> -->
+    <!--
+      <a href="#">
+        <img align="center" height="30" width="30" title="TypeScript"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      </a>
+      <a href="#">
+        <img align="center" height="30" width="30" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      </a> 
+    -->
     <a href="#">
       <img align="center" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
     <a href="#">
       <img align="center" height="30" width="30" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="RestAPI" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="FastAPI" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSoF_VIxG_D3CfwJ3r1WBvDWI3zYejqQ15Q&s">
+    </a>
+  <a href="#">
+      <img align="center" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    </a> 
+  <a href="#">
+    <a href="#">
+      <img align="center" height="30" width="30" title="C" src="https://img.freepik.com/free-vector/c-letter-initial-colorful-gradient-design_474888-2655.jpg?semt=ais_hybrid&w=740&q=80">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="C++" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvTMvMtzkpNOvGvmjeIYNqOJz5wS0t5IU93Q&s">
+    </a>
+      <img align="center" height="30" width="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="ReactJS" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
     </a>
     <a href="#">
       <img align="center" height="30" width="30" title="PosgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
@@ -67,11 +83,8 @@
       <img align="center" height="30" width="30" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+      <img align="center" height="30" width="30" title="GitHub" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRH1AfLaOoOK4C8xT6oJrRycgIDQIEHgfW5g&s">
     </a>
-<!-- <a href="#">
-      <img align="center" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    </a> -->
     <a href="#">
       <img align="center" height="30" width="30" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
     </a>
@@ -79,13 +92,12 @@
       <img align="center" height="30" width="30" title="vscode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="30" title="Github" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png">
-    </a>
-    <a href="#">
       <img align="center" height="30" width="30" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     </a>
   </p>
 </details>
+
+<!-- #################################### END SKILL AND TOOLS ########################################## -->
 
 <details open>
 <summary><h2>Stats</h2></summary>
@@ -101,7 +113,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&theme=buefy&border_color=DD2BC7" 
          width="89%" alt="My GitHub Stats were once here..." />
   </a>
-  
+
+<!-- ##################################### END STATS ########################################## -->
+
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=sagorluc&theme=tokyonight&mode=daily&border=DD2BC7" 
@@ -111,7 +125,9 @@
     <img src="https://streak-stats.demolab.com?user=sagorluc&theme=buefy&mode=daily&border=DD2BC7" 
          width="65%" height="125px" alt="My GitHub Streak was once here..." />
   </a>
-   
+
+
+<!-- ##################################### END STREK ########################################## -->
 
   <!-- Most Used Programming Languages -->
   
@@ -125,6 +141,8 @@
            width="48%" alt="Favorite Languages" />
     <br>
   </p>
+
+  <!-- ################################### END PROGRAMMING LANGULAGE ####################################### -->
   
   <!-- Commit Snake! -->
   ![snake gif](https://github.com/sagorluc/sagorluc/blob/output/github-snake-dark.svg)
