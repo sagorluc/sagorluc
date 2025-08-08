@@ -15,9 +15,7 @@
   </a>
 </div>
 
-###
-    I'm a Python and Django Lover!
-
+<br><h3 align="center">I'm a Python and Django Lover!</h3><br>
 
 - 🔭 I’m currently working @AppCube
 - :hearts: I enjoy programming and sharing knowledge <br/>
