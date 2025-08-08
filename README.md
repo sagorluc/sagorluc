@@ -105,18 +105,11 @@
   <br>
   
   <!-- Github Stats -->
-  <a href="https://github.com/sagorluc/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
-         width="89%" alt="My GitHub Stats were once here..." />
-  </a>
-    <a href="https://github.com/sagorluc/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&theme=buefy&border_color=DD2BC7" 
-         width="89%" alt="My GitHub Stats were once here..." />
-  </a>
+  <img alt="My GitHub Stats"  width="89%" src="https://github-readme-stats.vercel.app/api?username=sagorluc&show_icons=true&theme=tokyonight&border_color=DD2BC7" />
 
 <!-- ##################################### END STATS ########################################## -->
 
-  <!-- Github Streak -->
+  <!-- Github Streak 
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=sagorluc&theme=tokyonight&mode=daily&border=DD2BC7" 
          width="65%" height="125px" alt="My GitHub Streak was once here..." />
@@ -124,8 +117,7 @@
     <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=sagorluc&theme=buefy&mode=daily&border=DD2BC7" 
          width="65%" height="125px" alt="My GitHub Streak was once here..." />
-  </a>
-
+  </a> -->
 
 <!-- ##################################### END STREK ########################################## -->
 
