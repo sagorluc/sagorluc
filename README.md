@@ -39,7 +39,16 @@
       <img align="center" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
     <a href="#">
-      <img align="center" height="30" width="30" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+      <img align="center" height="30" width="30" title="Django" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="Django RestFramework" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="Django Channels" src="https://user-images.githubusercontent.com/6927678/36393573-789e7bc2-15b0-11e8-9a31-49f58e03a5c9.png">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="Django Celery" src="https://miro.medium.com/v2/resize:fit:850/1*HoKWBx9BAj0Z7EibNSl5fA.jpeg">
     </a>
     <a href="#">
       <img align="center" height="30" width="30" title="RestAPI" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s">
@@ -88,10 +97,19 @@
       <img align="center" height="30" width="30" title="Jenkins" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgr4GaQ79t_0EzVgnJA2BDkalwpHEoWW5LDQ&s">
     </a>
     <a href="#">
+      <img align="center" height="30" width="30" title="Redis" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYX_Ev_F6fY7kMF8XgooUJreleXO4u_NpAlLgFtWQ-9_42ptDYjWi9Q53g8YPwKpmdVGc&usqp=CAU">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="RabbitMQ" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nQnDfWyIhVbhOcI9JS0gxwX4wbIXetMNCm8SYbgJLuVJd7aem1wOkBo7TIWumTZtkJ0&usqp=CAU">
+    </a>
+    <a href="#">
       <img align="center" height="30" width="30" title="Docker" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodJeKSrQsTKNFQTgD3rw-hC4YIzmzGQJRzIJpkzKutsDXitqsdQzwemQssSD_tuW1HwE&usqp=CAU">
     </a>
     <a href="#">
       <img align="center" height="30" width="30" title="Docker-Compose" src="https://event-driven.io/static/67fd4c42f3de35627317b5d2fe97ce92/2a4de/2022-05-11-cover.png">
+    </a>
+    <a href="#">
+      <img align="center" height="30" width="30" title="YAML" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-yaml-color-green-icon.png">
     </a>
     <a href="#">
       <img align="center" height="30" width="30" title="Linux" src="https://rlv.zcache.fr/tapis_de_souris_logo_de_linux_avec_des_produits_de_tux-r1cf4d2a62180426b9fd80d3bb35344e7_x74vi_8byvr_644.webp">
