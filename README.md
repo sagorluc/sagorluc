@@ -24,10 +24,10 @@
 - 🌱 I’m working with Python, Django, DRF, Channels, Celery, Redis
 
 
-<details open>
+<!-- <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <div display="flex" >
-    
+    <p align="center">
       <!--
         <a href="#">
           <img align="center" height="30" width="30" title="TypeScript"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -145,8 +145,26 @@
       <a href="#">
         <img align="center" height="30" width="30" title="postman" src="https://logowik.com/content/uploads/images/postman-api-platform1242.logowik.com.webp">
       </a>
-    
+    </p>
   </div>
+</details> -->
+
+<details open>
+  <summary><h2>🛠 Skills and Tools</h2></summary>
+
+  <p align="center">
+    <img height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img height="30" width="30" title="Django" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" />
+    <img height="30" width="30" title="DRF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s" />
+    <img height="30" width="30" title="FastAPI" src="https://ih1.redbubble.net/image.5432135973.6302/st,small,507x507-pad,600x600,f8f8f8.jpg" />
+    <img height="30" width="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img height="30" width="30" title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+    <img height="30" width="30" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+    <img height="30" width="30" title="Docker" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodJeKSrQsTKNFQTgD3rw-hC4YIzmzGQJRzIJpkzKutsDXitqsdQzwemQssSD_tuW1HwE&usqp=CAU" />
+    <img height="30" width="30" title="Linux" src="https://rlv.zcache.fr/tapis_de_souris_logo_de_linux_avec_des_produits_de_tux-r1cf4d2a62180426b9fd80d3bb35344e7_x74vi_8byvr_644.webp" />
+    <img height="30" width="30" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  </p>
+
 </details>
 
 <!-- #################################### END SKILL AND TOOLS ########################################## -->
