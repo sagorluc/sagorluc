@@ -179,7 +179,7 @@
   
   <p align="center">
     <br>
-      <img alt="Favorite Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorluc&layout=pie&theme=blue-green&border_color=DD2BC7&langs_count=8&hide=tcl,scss,plsql,cython,hack,roff,fortarn&show=java" />
+      <img alt="Favorite Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorluc&layout=pie&theme=blue-green&border_color=DD2BC7&langs_count=8&hide=tcl,scss,plsql,cython,hack,roff,html&show=java" />
     <br>
   </p>
 
