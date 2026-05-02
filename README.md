@@ -35,12 +35,8 @@
         <img align="center" height="30" width="30" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       </a> 
     -->
-    <a href="#">
       <img align="center" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </a>
-    <a href="#">
       <img align="center" height="30" width="30" title="Django" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png">
-    </a>
     <a href="#">
       <img align="center" height="30" width="30" title="Django RestFramework" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s">
     </a>
