@@ -24,9 +24,9 @@
 - 🌱 I’m working with Python, Django, DRF, Channels, Celery, Redis
 
 
-<details open>
+<details display="flex" open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
-  <p align="center" display="flex">
+  <p align="center">
     <!--
       <a href="#">
         <img align="center" height="30" width="30" title="TypeScript"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
