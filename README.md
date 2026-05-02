@@ -21,7 +21,7 @@
 - :hearts: I enjoy programming and sharing knowledge <br/>
 - 🤔 I’m looking for people who can help me with Outstanding Video ideas and executions<br/>
 - :e-mail: How to reach me: mdsagarali000@gmail.com<br/>
-- 🌱 I’m working with Python, Django, DRF, Channels, Celery, Redis
+- 🌱 I’m working with Python, Django, DRF, Websocket, Celery, Redis, Docker, CI/CD, Agentic AI, MCP Server, RAG, Git
 
 
 <details open>
@@ -179,7 +179,7 @@
   
   <p align="center">
     <br>
-      <img alt="Favorite Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorluc&layout=pie&theme=blue-green&border_color=DD2BC7&langs_count=8&hide=tcl,scss,plsql,cython,hack,roff&show=java" />
+      <img alt="Favorite Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorluc&layout=pie&theme=blue-green&border_color=DD2BC7&langs_count=8&hide=tcl,scss,plsql,cython,hack,roff,fortarn&show=java" />
     <br>
   </p>
 
