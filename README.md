@@ -24,7 +24,7 @@
 - 🌱 I’m working with Python, Django, DRF, Channels, Celery, Redis
 
 
-<!-- <details open>
+<details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <div display="flex" >
     <p align="center">
@@ -37,10 +37,10 @@
         </a> 
       -->
       <a href="#">
-        <img align="center" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" height="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </a>
       <a href="#">
-        <img align="center" height="30" width="30" title="Django" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png">
+        <img align="center" height="30" title="Django" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png">
       </a>
       <a href="#">
         <img align="center" height="30" width="30" title="Django RestFramework" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s">
@@ -147,9 +147,9 @@
       </a>
     </p>
   </div>
-</details> -->
+</details>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="28"/>
@@ -158,7 +158,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="28"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="28"/>
-</p>
+</p> -->
 
 <!-- #################################### END SKILL AND TOOLS ########################################## -->
 
