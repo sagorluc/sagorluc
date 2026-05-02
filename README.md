@@ -27,7 +27,7 @@
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <div display="flex" >
-    <p align="center">
+    
       <!--
         <a href="#">
           <img align="center" height="30" width="30" title="TypeScript"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -145,7 +145,7 @@
       <a href="#">
         <img align="center" height="30" width="30" title="postman" src="https://logowik.com/content/uploads/images/postman-api-platform1242.logowik.com.webp">
       </a>
-    </p>
+    
   </div>
 </details>
 
